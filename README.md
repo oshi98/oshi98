@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.upwork.com/freelancers/~01c88995f691c9f07e"><img alt="Upwork" src="https://img.shields.io/badge/-Upwork-green"></a>
-<a href="https://www.linkedin.com/in/oshininugapitiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/oshi_nugs/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:oshnug7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/oshininugapitiya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/oshi_nugs/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:oshnug7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
