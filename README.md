@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **oshi98/oshi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Oshini.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -40,6 +36,8 @@ Here are some ideas to get you started:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
